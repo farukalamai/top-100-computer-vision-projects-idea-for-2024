@@ -1,6 +1,6 @@
 # Top 100 Computer Vision Projects Idea for 2024
 
-Welcome to the "Top 100 Computer Vision Projects Idea for 2023" repository! This repository contains a curated list of computer vision project ideas that you can explore, implement, and experiment with in 2023. Whether you're a beginner or an experienced computer vision enthusiast, you'll find interesting projects to work on.
+Welcome to the "Top 100 Computer Vision Projects Idea for 2024" repository! This repository contains a curated list of computer vision project ideas that you can explore, implement, and experiment with in 2024. Whether you're a beginner or an experienced computer vision enthusiast, you'll find interesting projects to work on.
 
 ![Top 100 Computer Vision Projects Idea for 2024](https://github.com/user-attachments/assets/7ce271cf-9319-421b-ae5e-7c63c15852e2)
 
