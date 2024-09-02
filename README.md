@@ -122,15 +122,9 @@ Welcome to the "Top 100 Computer Vision Projects Idea for 2023" repository! This
 99. Computer Vision Pop Game
 100. Blink Counter
 
-## How to Contribute
+## Follow Me
 
-We welcome contributions to this repository. If you have more project ideas, would like to improve the existing ones, or want to organize them differently, follow these steps:
-
-1. Fork this repository.
-2. Create a new branch for your changes: `git checkout -b feature/your-idea`.
-3. Add your project idea to the appropriate category in the README.md.
-4. Commit your changes: `git commit -m 'Added project idea: Your Idea'`.
-5. Push to your fork: `git push origin feature/your-idea`.
+[Follow me on LinkedIn](https://www.linkedin.com/in/farukalamai/)
 6. Create a Pull Request in this repository, and we'll review your contribution.
 
 Please ensure your project ideas are clear and well-documented. Include a brief description of the project and any relevant technologies or libraries. We encourage you to provide examples or code snippets if available.
