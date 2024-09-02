@@ -125,8 +125,5 @@ Welcome to the "Top 100 Computer Vision Projects Idea for 2023" repository! This
 ## Follow Me
 
 [Follow me on LinkedIn](https://www.linkedin.com/in/farukalamai/)
-6. Create a Pull Request in this repository, and we'll review your contribution.
 
-Please ensure your project ideas are clear and well-documented. Include a brief description of the project and any relevant technologies or libraries. We encourage you to provide examples or code snippets if available.
 
-Happy coding, and let's build exciting computer vision projects together!
